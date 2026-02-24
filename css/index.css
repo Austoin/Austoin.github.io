@@ -2670,7 +2670,7 @@ i.anzhiyu-icon-hashtag {
   --tab-button-active-bg: #fff;
   --card-bg: #fff;
   --sidebar-bg: #f6f8fa;
-  --btn-hover-color: #ff7242;
+  --btn-hover-color: #e74c3c;
   --btn-color: #fff;
   --btn-bg: var(--anzhiyu-main);
   --text-bg-hover: rgba(66,90,239,0.7);
@@ -2684,7 +2684,7 @@ i.anzhiyu-icon-hashtag {
   --toc-link-color: #666261;
   --card-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.05);
   --card-hover-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.09);
-  --pseudo-hover: #ff7242;
+  --pseudo-hover: #e74c3c;
   --headline-presudo: var(--anzhiyu-fontcolor);
   --scrollbar-color: var(--anzhiyu-scrollbar);
   --anzhiyu-snackbar-time: 2000ms;
@@ -2782,7 +2782,7 @@ i.anzhiyu-icon-hashtag {
   --anzhiyu-blue-tint: rgba(92,161,255,0.1);
   --anzhiyu-theme-op-deep: rgba(0,132,255,0.867);
   --global-bg: #18171d;
-  --anzhiyu-theme: #f2b94b;
+  --anzhiyu-theme: #e74c3c;
   --anzhiyu-theme-deep: #0076e5;
   --anzhiyu-theme-op: rgba(242,185,75,0.137);
   --anzhiyu-blue: #0084ff;
@@ -7320,7 +7320,7 @@ body[data-type="link"] #page .page-title {
   margin-right: 8px;
 }
 #recent-posts > .recent-post-item >.recent-post-info .sticky-warp .sticky {
-  color: #ff7242;
+  color: #e74c3c;
   font-size: 12px;
 }
 @media screen and (max-width: 768px) {
@@ -10360,7 +10360,7 @@ h1.page-title + .tag-cloud-list {
   color: #425aef;
 }
 #post-comment .comment-head .comment-switch .second-comment {
-  color: #ff7242;
+  color: #e74c3c;
 }
 #post-comment .comment-head .comment-switch #switch-btn {
   position: relative;
@@ -10404,7 +10404,7 @@ h1.page-title + .tag-cloud-list {
   display: none;
 }
 #post-comment.move #switch-btn {
-  background-color: #ff7242;
+  background-color: #e74c3c;
 }
 #post-comment.move #switch-btn:before {
   -webkit-transform: translateX(20px);
@@ -14001,7 +14001,7 @@ blockquote {
   line-height: 1em;
 }
 #article-container mark {
-  background-color: #ff6347;
+  background-color: #e74c3c;
   color: #fff;
   padding: 2px 4px;
   border-radius: 3px;
@@ -16282,7 +16282,7 @@ li.card-category-list-item {
 #waline-wrap {
   --waline-font-size: 1.1em;
   --waline-theme-color: var(--anzhiyu-main);
-  --waline-active-color: #ff7242;
+  --waline-active-color: #e74c3c;
 }
 #waline-wrap .vuser {
   -webkit-transition: all 0.5s;
